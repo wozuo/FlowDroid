@@ -28,6 +28,7 @@
 				<artifactId>slf4j-api</artifactId>
 				<version>1.7.5</version>
 			</dependency>
+			<!--
 			<dependency>
 				<groupId>log4j</groupId>
 				<artifactId>log4j</artifactId>
@@ -48,6 +49,7 @@
 					</exclusion>
 				</exclusions>
 			</dependency>
+			-->
 		</dependencies>
 	</dependencyManagement>
 </project>
